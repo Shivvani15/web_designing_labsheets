@@ -46,7 +46,7 @@ Lab Sheets 7 to 10 contain their own `README.md` or `QUESTION_MAP.md` that maps 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Shivani_WebDesign_CU26280050.git
+git clone https://github.com/<Shivvani15>/Shivani_WebDesign_CU26280050.git
 cd Shivani_WebDesign_CU26280050
 ```
 
